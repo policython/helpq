@@ -4,17 +4,17 @@
     "password": "agoodpassword"
   },
 "github": {
-    "enable": false,
+    "enable": true,
     "clientId": "5345dd46ac9574c40d8d",
     "secret": "abce474621ed851c768905f15af68e5bc90e93ed"
   },
   "facebook": {
-    "enable": false,
+    "enable": true,
     "appId": "343817083529462",
     "secret": "ba926593f8e0eb8e121a43462a1b0d0e"
   },
   "google": {
-    "enable": false,
+    "enable": true,
     "clientId": "506416248261-1bns78cejurmgsjmt1u01su0rqv4e5om.apps.googleusercontent.com",
     "secret": "jUTs5f3wZTdp1Hhfr9_mQ3oV"
   },
