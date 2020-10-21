@@ -4,12 +4,12 @@
     "password": "agoodpassword"
   },
 "github": {
-    "enable": true,
+    "enable": false,
     "clientId": "5345dd46ac9574c40d8d",
     "secret": "abce474621ed851c768905f15af68e5bc90e93ed"
   },
   "facebook": {
-    "enable": true,
+    "enable": false,
     "appId": "343817083529462",
     "secret": "ba926593f8e0eb8e121a43462a1b0d0e"
   },
