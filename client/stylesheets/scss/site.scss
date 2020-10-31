@@ -7,7 +7,10 @@
 @import 'elements/cleaninput';
 
 // Components
-@import 'components/banner';
+//@import 'components/banner';
+@ components/banner{
+color:#570816;
+}
 @import 'components/nav';
 @import 'components/tickets';
 @import 'components/ticketPanel';
